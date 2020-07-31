@@ -1,0 +1,58 @@
+[
+    {
+        "name": "tictok",
+        "ios": {
+            "id": "itms-apps://itunes.apple.com/app/idYOUR_APP_ID"
+        },
+        "android": {
+            "package": ""
+        },
+        "alternatives": [
+            {
+                "name": "kakako talk"
+            }
+        ]
+    },
+    {
+        "name": "shareit",
+        "ios": {
+            "id": "itms-apps://itunes.apple.com/app/idYOUR_APP_ID"
+        },
+        "android": {
+            "package": ""
+        },
+        "alternatives": [
+            {
+                "name": "kakako talk"
+            }
+        ]
+    },
+    {
+        "name": "Kwai",
+        "ios": {
+            "id": "itms-apps://itunes.apple.com/app/idYOUR_APP_ID"
+        },
+        "android": {
+            "package": ""
+        },
+        "alternatives": [
+            {
+                "name": "kakako talk"
+            }
+        ]
+    },
+    {
+        "name": "UC Browser",
+        "ios": {
+            "id": "itms-apps://itunes.apple.com/app/idYOUR_APP_ID"
+        },
+        "android": {
+            "package": ""
+        },
+        "alternatives": [
+            {
+                "name": "Chrome Browser"
+            }
+        ]
+    }
+]
